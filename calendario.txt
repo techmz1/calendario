@@ -39,10 +39,11 @@ venerdì:
 23 min so
 <altri corsi>
 sabato:
-mattina
+10/06/23
 <altri corsi>
-
-
-
+25 min so
+pausa
+25 min so
+<altri corsi>
 domenica:
 
