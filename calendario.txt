@@ -1,9 +1,7 @@
 Calendario
 
-
 Lunedì: Primo giorno
 Inizio algebra:
-
 10.16 inizio
 10.36 pausa
 10.47 riprendo
@@ -12,7 +10,6 @@ Inizio algebra:
 11.38 pausa
 13.30
 13.56 pausa
-
 Totale 1h e 24 minuti per Algebra senza pause
 17.34 so
 18.07 fine so
@@ -32,7 +29,6 @@ mercoledì:
 <altri corsi>
 25 min altri corsi
 <>
-
 giovedì:
 
 venerdì:
@@ -46,4 +42,7 @@ pausa
 25 min so
 <altri corsi>
 domenica:
+25 min so
+25 min so
+25 min so
 
