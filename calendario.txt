@@ -1,4 +1,5 @@
 Calendario
+altro = altri corsi 
 
 Lunedì: Primo giorno
 Inizio algebra:
@@ -56,5 +57,10 @@ giovedì
 15'06'23
 45 min so
 30 min so
+venerdì:
+16'06'23
+48,39 min altro
+sabato
+17'06'23
 
 
