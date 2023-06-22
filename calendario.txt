@@ -69,3 +69,18 @@ sabato
 55 min so
 19'06'23
 1 h 15 min so
+20'06'23
+1h 40 min so
+21'06'23
+1h so
+<esame so> passato </>
+<impegni>
+dalle 12 ale 01
+</>
+22'06'23
+<impegni>
+8.30 alle 13 
+</>
+
+
+
