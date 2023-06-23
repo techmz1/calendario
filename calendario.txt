@@ -74,13 +74,12 @@ sabato
 21'06'23
 1h so
 <esame so> passato </>
-<impegni>
-dalle 12 ale 01
-</>
+<impegni>da 12 a 01 </>
 22'06'23
-<impegni>
-8.30 alle 13 
-</>
+<impegni> da 8.30 a 13  </>
+46 min altro
+23'06'23
+
 
 
 
